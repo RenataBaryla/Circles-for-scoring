@@ -7,9 +7,33 @@
         margin: 0;
         padding: .1em;
     }
-.movedOn {
-  background-color: yellow;
+#circle1 {
+  border-color: red;
 }
-.scored {
+.bgcircle1, .clickbgcircle1 {
+  background-color: red;
+}
+#circle2 {
+  border-color: #FF6666;
+}
+.bgcircle2, .clickbgcircle2 {
+  background-color: #FF6666;
+}
+#circle3 {
+  border-color: orange;
+}
+.bgcircle3, .clickbgcircle3 {
+  background-color: orange;
+}
+#circle4 {
+  border-color: #2ECC40;
+}
+.bgcircle4, .clickbgcircle4 {
+  background-color: #2ECC40;
+}
+#circle5 {
+  border-color: green;
+}
+.bgcircle5, .clickbgcircle5 {
   background-color: green;
 }
